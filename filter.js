@@ -7,4 +7,3 @@ console.log(numbersFilter)
 numbersFilter.map(item => console.log(item))
 
 numbersFilter.push(6)
-numbersFilter.pop()
